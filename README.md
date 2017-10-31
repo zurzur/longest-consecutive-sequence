@@ -1,10 +1,11 @@
 ## Longest Consecutive Sequence
 
-### Desctiption
+### Description
 Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 Well, lets assume that this task related only to the sequence with step equal to 1 only.
 
 ### Hint
+If the passed array is empty, please return next string: "Empty array provided!"
 Your algorithm should have O(n) complexity.
 
 ### For example:
